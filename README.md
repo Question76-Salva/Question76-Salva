@@ -3,7 +3,7 @@ Salvador Belloso Santos 👋
 💻 Web Developer 
 
 - 🔭 I’m currently working and learning on fullstack web projects
-- 🌱 I’m currently learning more about Java, Spring, Angular, Laravel
+- 🌱 I’m currently learning more about Java, Spring, Angular
 - 👯 I’m looking to collaborate on webinar,meetup...
 - 💬 Ask me about 
 - 📫 How to reach me: https://salvadorbellososantosporfolio.netlify.app/ https://www.linkedin.com/in/salvador-belloso-santos-b22a9a1a2/
